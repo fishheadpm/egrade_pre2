@@ -62,7 +62,7 @@ function next() {
     return;
   }
   document.getElementById('progress').textContent = `${index + 1} / ${queue.length}`;
-  document.getElementById('question').textContent = q.question;
+  document.getElementById('question').textContent = formatQuestion(q);
   document.getElementById('answer').textContent = '';
   document.getElementById('answerArea').classList.add('hidden');
   show('quizScreen');
@@ -122,10 +122,17 @@ function showHistory() {
   for (let id in history) {
     const q = currentRound.questions.find(q => q.id === id);
     if (q) {
-      text += `${q.answer} : ${history[id]}回\n${q.question}\n\n`;
+      text += `${q.answer} : ${history[id]}回\n${formatQuestion(q)}\n\n`;
     }
   }
   alert(text || '履歴なし');
+}
+
+function formatQuestion(q) {
+  if (q.japanese) {
+    return `${q.question}\n\n${q.japanese}`;
+  }
+  return q.question;
 }
 
 function progressKey() {
