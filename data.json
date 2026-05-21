@@ -6,252 +6,302 @@
       {
         "id": "r1q001",
         "question": "My father went to the station (　　 ) his friend.",
-        "answer": "to help"
+        "answer": "to help",
+        "japanese": "父は友人を手伝うために駅へ行った。"
       },
       {
         "id": "r1q002",
         "question": "I need some bread (　　 ).",
-        "answer": "to buy"
+        "answer": "to buy",
+        "japanese": "私は買うためのパンが必要だ。"
       },
       {
         "id": "r1q003",
         "question": "This is an interesting book (　　 ).",
-        "answer": "to read"
+        "answer": "to read",
+        "japanese": "これは読むのがおもしろい本です。"
       },
       {
         "id": "r1q004",
         "question": "She stayed up late (　　 ) English.",
-        "answer": "to study"
+        "answer": "to study",
+        "japanese": "彼女は英語を勉強するために夜更かしした。"
       },
       {
         "id": "r1q005",
         "question": "We plan (　　 ) Kyoto next month.",
-        "answer": "to visit"
+        "answer": "to visit",
+        "japanese": "私たちは来月京都を訪れる予定です。"
       },
       {
         "id": "r1q006",
         "question": "He wants (　　 ) a doctor.",
-        "answer": "to become"
+        "answer": "to become",
+        "japanese": "彼は医者になりたい。"
       },
       {
         "id": "r1q007",
         "question": "My mother told me (　　 ) outside.",
-        "answer": "to play"
+        "answer": "to play",
+        "japanese": "母は私に外で遊ぶよう言った。"
       },
       {
         "id": "r1q008",
         "question": "Do you know how (　　 ) this computer?",
-        "answer": "to use"
+        "answer": "to use",
+        "japanese": "このコンピュータの使い方を知っていますか。"
       },
       {
         "id": "r1q009",
         "question": "I don't know what (　　 ).",
-        "answer": "to answer"
+        "answer": "to answer",
+        "japanese": "何と答えればよいかわかりません。"
       },
       {
         "id": "r1q010",
         "question": "He is old enough (　　 ).",
-        "answer": "to drive"
+        "answer": "to drive",
+        "japanese": "彼は運転できる年齢です。"
       },
       {
         "id": "r1q011",
         "question": "This box is too heavy (　　 ).",
-        "answer": "to carry"
+        "answer": "to carry",
+        "japanese": "この箱は重すぎて運べない。"
       },
       {
         "id": "r1q012",
         "question": "I was happy (　　 ) my friends again.",
-        "answer": "to see"
+        "answer": "to see",
+        "japanese": "私は再び友人たちに会えてうれしかった。"
       },
       {
         "id": "r1q013",
         "question": "It's important (　　 ) English.",
-        "answer": "to learn"
+        "answer": "to learn",
+        "japanese": "英語を学ぶことは重要です。"
       },
       {
         "id": "r1q014",
         "question": "The teacher asked us (　　 ) notes.",
-        "answer": "to take"
+        "answer": "to take",
+        "japanese": "先生は私たちにノートを取るよう頼んだ。"
       },
       {
         "id": "r1q015",
         "question": "She needs (　　 ) her homework.",
-        "answer": "to finish"
+        "answer": "to finish",
+        "japanese": "彼女は宿題を終える必要がある。"
       },
       {
         "id": "r1q016",
         "question": "The boy (　　 ) is running is my brother.",
-        "answer": "who"
+        "answer": "who",
+        "japanese": "走っている少年は私の弟です。"
       },
       {
         "id": "r1q017",
         "question": "I know a woman (　　 ) speaks French.",
-        "answer": "who"
+        "answer": "who",
+        "japanese": "私はフランス語を話す女性を知っています。"
       },
       {
         "id": "r1q018",
         "question": "This is the camera (　　 ) I bought yesterday.",
-        "answer": "which"
+        "answer": "which",
+        "japanese": "これは私が昨日買ったカメラです。"
       },
       {
         "id": "r1q019",
         "question": "The movie (　　 ) we watched was exciting.",
-        "answer": "which"
+        "answer": "which",
+        "japanese": "私たちが見た映画はわくわくした。"
       },
       {
         "id": "r1q020",
         "question": "The book (　　 ) is on the desk is mine.",
-        "answer": "that"
+        "answer": "that",
+        "japanese": "机の上にある本は私のものです。"
       },
       {
         "id": "r1q021",
         "question": "This is the dog (　　 ) chased the cat.",
-        "answer": "that"
+        "answer": "that",
+        "japanese": "これは猫を追いかけた犬です。"
       },
       {
         "id": "r1q022",
         "question": "The gift (　　 ) she gave me was wonderful.",
-        "answer": "that"
+        "answer": "that",
+        "japanese": "彼女が私にくれた贈り物はすばらしかった。"
       },
       {
         "id": "r1q023",
         "question": "This is the park (　　 ) we played soccer.",
-        "answer": "where"
+        "answer": "where",
+        "japanese": "ここは私たちがサッカーをした公園です。"
       },
       {
         "id": "r1q024",
         "question": "I remember the town (　　 ) I was born.",
-        "answer": "where"
+        "answer": "where",
+        "japanese": "私は自分が生まれた町を覚えている。"
       },
       {
         "id": "r1q025",
         "question": "I will never forget the day (　　 ) we met.",
-        "answer": "when"
+        "answer": "when",
+        "japanese": "私たちが出会った日を決して忘れない。"
       },
       {
         "id": "r1q026",
         "question": "Sunday is the day (　　 ) many people relax.",
-        "answer": "when"
+        "answer": "when",
+        "japanese": "日曜日は多くの人がくつろぐ日です。"
       },
       {
         "id": "r1q027",
         "question": "Do you know the reason (　　 ) he was absent?",
-        "answer": "why"
+        "answer": "why",
+        "japanese": "彼が欠席した理由を知っていますか。"
       },
       {
         "id": "r1q028",
         "question": "That's the reason (　　 ) I study English.",
-        "answer": "why"
+        "answer": "why",
+        "japanese": "それが私が英語を勉強する理由です。"
       },
       {
         "id": "r1q029",
         "question": "The scientist (　　 ) discovered the star became famous.",
-        "answer": "who"
+        "answer": "who",
+        "japanese": "その星を発見した科学者は有名になった。"
       },
       {
         "id": "r1q030",
         "question": "The restaurant (　　 ) serves Italian food is popular.",
-        "answer": "which"
+        "answer": "which",
+        "japanese": "イタリア料理を出すそのレストランは人気です。"
       },
       {
         "id": "r1q031",
         "question": "The smartphone (　　 ) I use is very convenient.",
-        "answer": "that"
+        "answer": "that",
+        "japanese": "私が使っているスマートフォンはとても便利です。"
       },
       {
         "id": "r1q032",
         "question": "We should work hard (　　 ) the environment.",
-        "answer": "to protect"
+        "answer": "to protect",
+        "japanese": "私たちは環境を守るために努力すべきだ。"
       },
       {
         "id": "r1q033",
         "question": "English is an (　　 ) language.",
-        "answer": "international"
+        "answer": "international",
+        "japanese": "英語は国際的な言語です。"
       },
       {
         "id": "r1q034",
         "question": "The singer thanked the (　　 ) after the concert.",
-        "answer": "audience"
+        "answer": "audience",
+        "japanese": "歌手はコンサート後に聴衆へ感謝した。"
       },
       {
         "id": "r1q035",
         "question": "The store is famous for the high (　　 ) of its products.",
-        "answer": "quality"
+        "answer": "quality",
+        "japanese": "その店は商品の高品質で有名です。"
       },
       {
         "id": "r1q036",
         "question": "In my (　　 ), this book is worth reading.",
-        "answer": "opinion"
+        "answer": "opinion",
+        "japanese": "私の意見では、この本は読む価値がある。"
       },
       {
         "id": "r1q037",
         "question": "This company sells many useful (　　 ).",
-        "answer": "product"
+        "answer": "product",
+        "japanese": "この会社は多くの便利な製品を販売している。"
       },
       {
         "id": "r1q038",
         "question": "Many students are interested in (　　 ) issues.",
-        "answer": "environmental"
+        "answer": "environmental",
+        "japanese": "多くの学生は環境問題に関心を持っている。"
       },
       {
         "id": "r1q039",
         "question": "We hope for a (　　 ) future.",
-        "answer": "peaceful"
+        "answer": "peaceful",
+        "japanese": "私たちは平和な未来を望んでいる。"
       },
       {
         "id": "r1q040",
         "question": "I have been very busy (　　 ).",
-        "answer": "lately"
+        "answer": "lately",
+        "japanese": "私は最近とても忙しい。"
       },
       {
         "id": "r1q041",
         "question": "I visited the museum (　　 ) times.",
-        "answer": "several"
+        "answer": "several",
+        "japanese": "私はその博物館を数回訪れた。"
       },
       {
         "id": "r1q042",
         "question": "The school festival is an (　　 ) event.",
-        "answer": "annual"
+        "answer": "annual",
+        "japanese": "学校祭は毎年行われる行事です。"
       },
       {
         "id": "r1q043",
         "question": "Please (　　 ) your studies.",
-        "answer": "focus on"
+        "answer": "focus on",
+        "japanese": "勉強に集中してください。"
       },
       {
         "id": "r1q044",
         "question": "I (　　 ) play soccer every day.",
-        "answer": "used to"
+        "answer": "used to",
+        "japanese": "私は以前毎日サッカーをしていた。"
       },
       {
         "id": "r1q045",
         "question": "Please (　　 ) your dictionary tomorrow.",
-        "answer": "bring"
+        "answer": "bring",
+        "japanese": "明日辞書を持ってきてください。"
       },
       {
         "id": "r1q046",
         "question": "The number of visitors began to (　　 ).",
-        "answer": "decrease"
+        "answer": "decrease",
+        "japanese": "訪問者数は減少し始めた。"
       },
       {
         "id": "r1q047",
         "question": "They decided to (　　 ) the old bridge with a new one.",
-        "answer": "replace"
+        "answer": "replace",
+        "japanese": "彼らは古い橋を新しい橋に取り替えることにした。"
       },
       {
         "id": "r1q048",
         "question": "Can you tell me the (　　 ) time?",
-        "answer": "exact"
+        "answer": "exact",
+        "japanese": "正確な時間を教えてくれますか。"
       },
       {
         "id": "r1q049",
         "question": "This English (　　 ) is useful in daily conversation.",
-        "answer": "phrase"
+        "answer": "phrase",
+        "japanese": "この英語のフレーズは日常会話で役立つ。"
       },
       {
         "id": "r1q050",
         "question": "Each country has its own (　　 ) culture.",
-        "answer": "unique"
+        "answer": "unique",
+        "japanese": "それぞれの国には独自の文化がある。"
       }
     ]
   }
