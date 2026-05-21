@@ -1,0 +1,258 @@
+[
+  {
+    "id": "round1",
+    "name": "英検準二級①",
+    "questions": [
+      {
+        "id": "r1q001",
+        "question": "My father went to the station (　　 ) his friend.",
+        "answer": "to help"
+      },
+      {
+        "id": "r1q002",
+        "question": "I need some bread (　　 ).",
+        "answer": "to buy"
+      },
+      {
+        "id": "r1q003",
+        "question": "This is an interesting book (　　 ).",
+        "answer": "to read"
+      },
+      {
+        "id": "r1q004",
+        "question": "She stayed up late (　　 ) English.",
+        "answer": "to study"
+      },
+      {
+        "id": "r1q005",
+        "question": "We plan (　　 ) Kyoto next month.",
+        "answer": "to visit"
+      },
+      {
+        "id": "r1q006",
+        "question": "He wants (　　 ) a doctor.",
+        "answer": "to become"
+      },
+      {
+        "id": "r1q007",
+        "question": "My mother told me (　　 ) outside.",
+        "answer": "to play"
+      },
+      {
+        "id": "r1q008",
+        "question": "Do you know how (　　 ) this computer?",
+        "answer": "to use"
+      },
+      {
+        "id": "r1q009",
+        "question": "I don't know what (　　 ).",
+        "answer": "to answer"
+      },
+      {
+        "id": "r1q010",
+        "question": "He is old enough (　　 ).",
+        "answer": "to drive"
+      },
+      {
+        "id": "r1q011",
+        "question": "This box is too heavy (　　 ).",
+        "answer": "to carry"
+      },
+      {
+        "id": "r1q012",
+        "question": "I was happy (　　 ) my friends again.",
+        "answer": "to see"
+      },
+      {
+        "id": "r1q013",
+        "question": "It's important (　　 ) English.",
+        "answer": "to learn"
+      },
+      {
+        "id": "r1q014",
+        "question": "The teacher asked us (　　 ) notes.",
+        "answer": "to take"
+      },
+      {
+        "id": "r1q015",
+        "question": "She needs (　　 ) her homework.",
+        "answer": "to finish"
+      },
+      {
+        "id": "r1q016",
+        "question": "The boy (　　 ) is running is my brother.",
+        "answer": "who"
+      },
+      {
+        "id": "r1q017",
+        "question": "I know a woman (　　 ) speaks French.",
+        "answer": "who"
+      },
+      {
+        "id": "r1q018",
+        "question": "This is the camera (　　 ) I bought yesterday.",
+        "answer": "which"
+      },
+      {
+        "id": "r1q019",
+        "question": "The movie (　　 ) we watched was exciting.",
+        "answer": "which"
+      },
+      {
+        "id": "r1q020",
+        "question": "The book (　　 ) is on the desk is mine.",
+        "answer": "that"
+      },
+      {
+        "id": "r1q021",
+        "question": "This is the dog (　　 ) chased the cat.",
+        "answer": "that"
+      },
+      {
+        "id": "r1q022",
+        "question": "The gift (　　 ) she gave me was wonderful.",
+        "answer": "that"
+      },
+      {
+        "id": "r1q023",
+        "question": "This is the park (　　 ) we played soccer.",
+        "answer": "where"
+      },
+      {
+        "id": "r1q024",
+        "question": "I remember the town (　　 ) I was born.",
+        "answer": "where"
+      },
+      {
+        "id": "r1q025",
+        "question": "I will never forget the day (　　 ) we met.",
+        "answer": "when"
+      },
+      {
+        "id": "r1q026",
+        "question": "Sunday is the day (　　 ) many people relax.",
+        "answer": "when"
+      },
+      {
+        "id": "r1q027",
+        "question": "Do you know the reason (　　 ) he was absent?",
+        "answer": "why"
+      },
+      {
+        "id": "r1q028",
+        "question": "That's the reason (　　 ) I study English.",
+        "answer": "why"
+      },
+      {
+        "id": "r1q029",
+        "question": "The scientist (　　 ) discovered the star became famous.",
+        "answer": "who"
+      },
+      {
+        "id": "r1q030",
+        "question": "The restaurant (　　 ) serves Italian food is popular.",
+        "answer": "which"
+      },
+      {
+        "id": "r1q031",
+        "question": "The smartphone (　　 ) I use is very convenient.",
+        "answer": "that"
+      },
+      {
+        "id": "r1q032",
+        "question": "We should work hard (　　 ) the environment.",
+        "answer": "to protect"
+      },
+      {
+        "id": "r1q033",
+        "question": "English is an (　　 ) language.",
+        "answer": "international"
+      },
+      {
+        "id": "r1q034",
+        "question": "The singer thanked the (　　 ) after the concert.",
+        "answer": "audience"
+      },
+      {
+        "id": "r1q035",
+        "question": "The store is famous for the high (　　 ) of its products.",
+        "answer": "quality"
+      },
+      {
+        "id": "r1q036",
+        "question": "In my (　　 ), this book is worth reading.",
+        "answer": "opinion"
+      },
+      {
+        "id": "r1q037",
+        "question": "This company sells many useful (　　 ).",
+        "answer": "product"
+      },
+      {
+        "id": "r1q038",
+        "question": "Many students are interested in (　　 ) issues.",
+        "answer": "environmental"
+      },
+      {
+        "id": "r1q039",
+        "question": "We hope for a (　　 ) future.",
+        "answer": "peaceful"
+      },
+      {
+        "id": "r1q040",
+        "question": "I have been very busy (　　 ).",
+        "answer": "lately"
+      },
+      {
+        "id": "r1q041",
+        "question": "I visited the museum (　　 ) times.",
+        "answer": "several"
+      },
+      {
+        "id": "r1q042",
+        "question": "The school festival is an (　　 ) event.",
+        "answer": "annual"
+      },
+      {
+        "id": "r1q043",
+        "question": "Please (　　 ) your studies.",
+        "answer": "focus on"
+      },
+      {
+        "id": "r1q044",
+        "question": "I (　　 ) play soccer every day.",
+        "answer": "used to"
+      },
+      {
+        "id": "r1q045",
+        "question": "Please (　　 ) your dictionary tomorrow.",
+        "answer": "bring"
+      },
+      {
+        "id": "r1q046",
+        "question": "The number of visitors began to (　　 ).",
+        "answer": "decrease"
+      },
+      {
+        "id": "r1q047",
+        "question": "They decided to (　　 ) the old bridge with a new one.",
+        "answer": "replace"
+      },
+      {
+        "id": "r1q048",
+        "question": "Can you tell me the (　　 ) time?",
+        "answer": "exact"
+      },
+      {
+        "id": "r1q049",
+        "question": "This English (　　 ) is useful in daily conversation.",
+        "answer": "phrase"
+      },
+      {
+        "id": "r1q050",
+        "question": "Each country has its own (　　 ) culture.",
+        "answer": "unique"
+      }
+    ]
+  }
+]
